@@ -1,0 +1,38 @@
+[
+    {
+        "bill_no": 99997,
+        "customer_no": 1414,
+        "name": "Neish",
+        "phone": "1458563256",
+        "address": "Rajkot",
+        "units": 300.0,
+        "solar_units": 100.0,
+        "solar_price": 3,
+        "net_units": 200.0,
+        "energy_charge": 800.0,
+        "fixed_charge": 150,
+        "credit_amount": 0,
+        "gst": 171.0,
+        "total": 1121.0,
+        "date": "03/04/2026 11:00 PM",
+        "due_date": "18/04/2026 11:00 PM"
+    },
+    {
+        "bill_no": 99998,
+        "customer_no": 1414,
+        "name": "Neish",
+        "phone": "1458563256",
+        "address": "Rajkot",
+        "units": 300.0,
+        "solar_units": 100.0,
+        "solar_price": 3,
+        "net_units": 200.0,
+        "energy_charge": 800.0,
+        "fixed_charge": 150,
+        "credit_amount": 0,
+        "gst": 171.0,
+        "total": 1121.0,
+        "date": "03/04/2026 11:01 PM",
+        "due_date": "18/04/2026 11:01 PM"
+    }
+]
